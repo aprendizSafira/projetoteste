@@ -5,8 +5,6 @@
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+       Esta é a minha update.
     </body>
 </html>
